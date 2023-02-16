@@ -47,35 +47,35 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
+global.sig = 'https://instagram.com/l_.bot' //Link Instagrammu
+global.sgh = 'https://github.com/' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '082213009085' //Nomor Danamu
+global.ppulsa = '081214909605' //Nomor SimCard Yang Kamu Pake
+global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62' //Nomor Bot
-global.nomorown = '6285658807688'//Nomor Owner
-global.namebot = 'Kesyaa BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nomorbot = '6281214909605' //Nomor Bot
+global.nomorown = '6282213009085' //Nomor Owner
+global.namebot = 'ʟ-ʙᴏᴛᴢ' //Nama Bot
+global.nameown = 'L' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285658807688', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6282213009085', 'L', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
-global.lolkey = 'apikeymu'
-global.xkey = 'APIKEYMU'
+global.lolkey = '8e66d0934cf741bfd2182c16'
+global.xkey = 'ebb6251cc00f9c63'
 /*============== API ==============*/
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -90,24 +90,23 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
+  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'Apikeymu',
+  'https://api.lolhuman.xyz': '8e66d0934cf741bfd2182c16',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://violetics.pw': 'beta'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ksyaa - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Kesyaa 𝙱𝙾𝚃'
-global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
-global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
+global.wm = '「 ʟ-ʙᴏᴛᴢ 汉  」' //Main Watermark
+global.wm2 = '「 ʟ-ʙᴏᴛᴢ 汉  」'
+global.wm3 = '⫹⫺ ʟ-ʙᴏᴛᴢ'
+global.namedoc = 'ʟ-ʙᴏᴛᴢ' //Main Name Menu Document
+global.botdate = `⫹⫺ Day's: ${week} ${date}`
+global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://ibb.co/17RY7x9'
-
 
 
 /*============== LOGO ==============*/
@@ -331,7 +330,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 822-1300-9085'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -372,9 +371,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `ᴄʀᴇᴀᴛᴇᴅ ʙʏ`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟᴀɪɴᴀ ʙᴏᴛᴢ'
+global.packname2 = 'ʟ-ʙᴏᴛᴢ'
 
 global.multiplier = 38 // The higher, The harder levelup
 
@@ -429,8 +428,3 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
 })
-
-//------ FUNCTION
-function pickRandom(list) {
-  return list[Math.floor(list.length * Math.random())]
-}
